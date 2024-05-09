@@ -2,41 +2,68 @@
   {
     "id": 1,
     "heading": "Create a Study Schedule",
-    "description": "Establishing a study schedule can help you stay organized and focused. Allocate specific time slots for each subject or topic, and be consistent with your study routine. Consider your peak hours of productivity and plan your study sessions accordingly."
+    "description": [
+      "Establishing a study schedule can help you stay organized and focused",
+      "Allocate specific time slots for each subject or topic, and be consistent with your study routine",
+      "Consider your peak hours of productivity and plan your study sessions accordingly"
+    ]
   },
   {
     "id": 2,
     "heading": "Set Clear Goals",
-    "description": "Set clear and achievable goals for each study session. Break down larger tasks into smaller, manageable goals to avoid feeling overwhelmed. Setting goals helps you stay motivated and provides a sense of accomplishment as you progress through your studies."
+    "description": [
+      "Set clear and achievable goals for each study session",
+      "Break down larger tasks into smaller, manageable goals to avoid feeling overwhelmed",
+      "Setting goals helps you stay motivated and provides a sense of accomplishment as you progress through your studies"
+    ]
   },
   {
     "id": 3,
     "heading": "Use Active Learning Techniques",
-    "description": "Engage actively with the material by using techniques such as summarizing, questioning, and teaching the material to others. Active learning enhances comprehension and retention, making it easier to recall information during exams."
+    "description": [
+      "Engage actively with the material by using techniques such as summarizing, questioning, and teaching the material to others",
+      "Active learning enhances comprehension and retention, making it easier to recall information during exams"
+    ]
   },
   {
     "id": 4,
     "heading": "Take Regular Breaks",
-    "description": "Taking regular breaks during study sessions can improve concentration and prevent burnout. Schedule short breaks to relax and recharge, and use longer breaks to engage in physical activity or hobbies to refresh your mind."
+    "description": [
+      "Taking regular breaks during study sessions can improve concentration and prevent burnout",
+      "Schedule short breaks to relax and recharge, and use longer breaks to engage in physical activity or hobbies to refresh your mind"
+    ]
   },
   {
     "id": 5,
     "heading": "Practice Self-Care",
-    "description": "Prioritize self-care to maintain overall well-being. Get enough sleep, eat nutritious meals, and exercise regularly to support cognitive function and reduce stress. Remember to take breaks and seek support from friends, family, or counselors if needed."
+    "description": [
+      "Prioritize self-care to maintain overall well-being",
+      "Get enough sleep, eat nutritious meals, and exercise regularly to support cognitive function and reduce stress",
+      "Remember to take breaks and seek support from friends, family, or counselors if needed"
+    ]
   },
   {
     "id": 6,
     "heading": "Utilize Effective Study Resources",
-    "description": "Make use of various study resources, including textbooks, online tutorials, and educational apps. Experiment with different study methods to find what works best for you, whether it's flashcards, mind maps, or practice quizzes."
+    "description": [
+      "Make use of various study resources, including textbooks, online tutorials, and educational apps",
+      "Experiment with different study methods to find what works best for you, whether it's flashcards, mind maps, or practice quizzes"
+    ]
   },
   {
     "id": 7,
     "heading": "Stay Organized",
-    "description": "Keep your study space clutter-free and well-organized to minimize distractions and optimize productivity. Use planners, to-do lists, or digital tools to track assignments, deadlines, and important dates."
+    "description": [
+      "Keep your study space clutter-free and well-organized to minimize distractions and optimize productivity",
+      "Use planners, to-do lists, or digital tools to track assignments, deadlines, and important dates"
+    ]
   },
   {
     "id": 8,
     "heading": "Review and Revise Regularly",
-    "description": "Regularly review and revise previously learned material to reinforce your understanding and retention. Spaced repetition techniques, such as reviewing material at increasing intervals over time, can help solidify long-term memory."
+    "description": [
+      "Regularly review and revise previously learned material to reinforce your understanding and retention",
+      "Spaced repetition techniques, such as reviewing material at increasing intervals over time, can help solidify long-term memory"
+    ]
   }
 ]
